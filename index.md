@@ -10,7 +10,7 @@
 - Design and development of game on theme "Duality"<br>
 - This game was made in 48h period during Global Game Jam 2022
 in Novska, Croatia. Game won second place in competition<br>
-- You play as detective on mysterious case with unusal ending<br>
+- You play as a detective on a case more intense than usual. Use his sharpened, experienced intuition to focus and locate clues that will help unfurl a plot of a killer on the loose.<br>
 - Roles: UI design and programming<br><br>
 <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png?raw=true"/><br>
 <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc2LnBuZw==/original/jmd2Cc.png?raw=true"/><br>
