@@ -29,7 +29,7 @@ collect as many cookies while escaping from evil snowmans<br>
 <br>
 <i>Unity Education | Game Jam project<i/><br>
 - Design and development of game on theme "Destroying yourself"<br>
--A hyper-casual 2D puzzle reflex/reaction game where you have to
+- A hyper-casual 2D puzzle reflex/reaction game where you have to
 pick off the correct flower petals<br>
 - Roles: UI design and programming<br><br>
 <img src="https://img.itch.zone/aW1hZ2UvMTI3MDEyNC83NDAyNTY2LmpwZw==/original/p1RtAD.jpg?raw=true"/><br>
